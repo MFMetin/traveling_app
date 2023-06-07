@@ -1,0 +1,44 @@
+Date : 2023-05-02 15:50:30
+Directory : c:\Users\furkan.metin\Desktop\flutter\travelling\lib
+Total : 13 files,  847 codes, 3 comments, 66 blanks, all 916 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         13 |        847 |          3 |         66 |        916 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                      | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                         |         13 |        847 |          3 |         66 |        916 |
+| . (Files)                                                                                 |          1 |         15 |          0 |          4 |         19 |
+| assets                                                                                    |          2 |        225 |          0 |          7 |        232 |
+| assets\city_list                                                                          |          2 |        225 |          0 |          7 |        232 |
+| components                                                                                |          1 |          6 |          0 |          3 |          9 |
+| models                                                                                    |          2 |         25 |          0 |          4 |         29 |
+| screens                                                                                   |          5 |        415 |          3 |         40 |        458 |
+| widgets                                                                                   |          2 |        161 |          0 |          8 |        169 |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                  | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\assets\city_list\cities.dart         | Dart     |         40 |          0 |          2 |         42 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\assets\city_list\places.dart         | Dart     |        185 |          0 |          5 |        190 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\components\constants.dart            | Dart     |          6 |          0 |          3 |          9 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\main.dart                            | Dart     |         15 |          0 |          4 |         19 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\models\city.dart                     | Dart     |         10 |          0 |          1 |         11 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\models\place.dart                    | Dart     |         15 |          0 |          3 |         18 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\screens\city_screen.dart             | Dart     |        120 |          2 |          9 |        131 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\screens\current_location_screen.dart | Dart     |         75 |          0 |          9 |         84 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\screens\favorites_screen.dart        | Dart     |          0 |          0 |          2 |          2 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\screens\map_screen.dart              | Dart     |        151 |          1 |         14 |        166 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\screens\place_screen.dart            | Dart     |         69 |          0 |          6 |         75 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\widgets\city_card.dart               | Dart     |         48 |          0 |          4 |         52 |
+| c:\Users\furkan.metin\Desktop\flutter\travelling\lib\widgets\place_card.dart              | Dart     |        113 |          0 |          4 |        117 |
+| Total                                                                                     |          |        847 |          3 |         66 |        916 |
++-------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
